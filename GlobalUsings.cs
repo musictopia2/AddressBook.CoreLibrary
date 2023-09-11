@@ -1,0 +1,5 @@
+﻿global using CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.HtmlParserClasses;
+global using CommonBasicLibraries.CollectionClasses;
+global using CommonBasicLibraries.BasicDataSettingsAndProcesses;
+global using fs1 = CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.FileFunctions.FileFunctions;
+global using CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.BasicExtensions;
