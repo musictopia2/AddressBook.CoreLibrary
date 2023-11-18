@@ -1,14 +1,15 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net7.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 	  <Version>7.0.1</Version>
+<PackageId>Musictopia.AddressBook.CoreLibrary</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="CommonBasicLibraries" Version="7.0.15" />
+    <PackageReference Include="CommonBasicLibraries" Version="8.0.1" />
   </ItemGroup>
 
 </Project>
